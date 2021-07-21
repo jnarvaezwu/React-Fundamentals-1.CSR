@@ -1,3 +1,5 @@
+// Client Side Rendering
+
 const loremIpsumText = `
     Lorem ipsum dolor sit amet consectetur adipisicing elit. 
     Beatae, unde praesentium impedit fugit in labore suscipit, 
