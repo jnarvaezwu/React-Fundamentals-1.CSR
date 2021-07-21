@@ -1,10 +1,6 @@
-let count = 0;
 
-const action = () => {
-    count = count + 1;
-    console.log(`Contando: ${count}`);
-}
+const title = document.getElementById("my-title");
+title.innerHTML = "Hé cambiado el título!";
 
-const interval = 1000;
-
-setInterval(action, interval);
+const paragraph = document.getElementById("my-paragraph");
+paragraph.style = "color: blue";
